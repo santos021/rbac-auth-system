@@ -145,7 +145,7 @@ http://localhost:5173
 ## 📸 Screenshots
 ### Register Page
 
-(Add Screenshot)
+![image alt]{https://github.com/santos021/rbac-auth-system/blob/main/screenshots/register.png?raw=true}
 
 ### Login Page
 

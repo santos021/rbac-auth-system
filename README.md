@@ -145,23 +145,20 @@ http://localhost:5173
 ## 📸 Screenshots
 ### Register Page
 
-![image alt]{https://github.com/santos021/rbac-auth-system/blob/main/screenshots/register.png?raw=true}
+![image alt](https://github.com/santos021/rbac-auth-system/blob/f2a32d1fb65fb3c695aef432427c95230c7a14d5/screenshots/register.png)
 
 ### Login Page
 
-(Add Screenshot)
+![image alt](https://github.com/santos021/rbac-auth-system/blob/f2a32d1fb65fb3c695aef432427c95230c7a14d5/screenshots/login.png)
 
 ### Dashboard (User Role)
 
-(Add Screenshot)
+![image alt](https://github.com/santos021/rbac-auth-system/blob/f2a32d1fb65fb3c695aef432427c95230c7a14d5/screenshots/user-dashboard.png)
 
 ### Dashboard (Admin Role)
 
-(Add Screenshot)
+![image alt](https://github.com/santos021/rbac-auth-system/blob/f2a32d1fb65fb3c695aef432427c95230c7a14d5/screenshots/admin-dashboard.png)
 
-### Swagger API
-
-(Add Screenshot)
 
 ## 🎯 How RBAC Works
 
